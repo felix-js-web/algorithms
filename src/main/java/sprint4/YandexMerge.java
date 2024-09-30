@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class M {
+public class YandexMerge {
 
     public static void main(String args[]) throws IOException {
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
